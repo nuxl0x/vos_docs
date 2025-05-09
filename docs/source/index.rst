@@ -7,7 +7,7 @@ Verbose Octo Spork, better referred to as VOS, is a multi-use utility that allow
 
    The software developer holds absolutely zero responsibility for any malicious actions that people may take through the usage of this software. Any and all actions that are a result of this software are the responsiblity of the user responsible for those actions and them only.
 
-   By itself, VOS does not actually contain any inherent functionality. It is simply a wrapper to simplify using a large suite of utilities by making them all          accessible in a single place.
+By itself, VOS does not actually contain any inherent functionality. It is simply a wrapper to simplify using a large suite of utilities by making them all          accessible in a single place.
 
 .. note::
 
