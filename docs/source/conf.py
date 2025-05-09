@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'VOS | verbose-octo-spork'
+copyright = '2025, nuxl0x'
+author = 'nuxl0x'
 
 release = '0.1'
 version = '0.1.0'
