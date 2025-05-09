@@ -1,13 +1,18 @@
-Welcome to Lumache's documentation!
+VOS \ Documentation \ Index
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Verbose Octo Spork, better referred to as VOS, is a multi-use utility that allows a user to access a wide variety of malicious and non-malicious functions all through a single program responsible for managing and handling all the smaller utilities used.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. warning::
+
+The software developer holds absolutely zero responsibility for any malicious actions that people may take through the usage of this software. Any and all actions that are a result of this software are the responsiblity of the user responsible for those actions and them only.
+
+By itself, VOS does not actually contain any inherent functionality. It is simply a wrapper to simplify using a large suite of utilities by making them all accessible in a single place.
+
+.. note::
+
+This software has been created and tested on Arch Linux. Please open any issues if there are problems due to combatability.
+This program will NOT function on Windows machines.
 
 .. note::
 
