@@ -18,10 +18,13 @@ By itself, VOS does not actually contain any inherent functionality. It is simpl
 
    This project is under active development.
 
-Contents
+Documentation
 --------
 
 .. toctree::
 
-   usage
-   api
+   installation
+   syntax
+   dependencies
+   commandlist
+   credits
