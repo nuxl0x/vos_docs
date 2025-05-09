@@ -26,5 +26,4 @@ Documentation
    installation
    syntax
    dependencies
-   commandlist
    credits
