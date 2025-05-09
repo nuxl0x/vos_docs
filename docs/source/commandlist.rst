@@ -1,2 +1,0 @@
-VOS - Documentation | Command List
-===================================
