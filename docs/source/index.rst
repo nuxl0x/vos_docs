@@ -1,7 +1,7 @@
 VOS - Documentation | Index
 ===================================
 
-Verbose Octo Spork, better referred to as VOS, is a multi-use utility that allows a user to access a wide variety of malicious and non-malicious functions all through a single program responsible for managing and handling all the smaller utilities used.
+Verbose Octo Spork, better referred to as VOS, is a multi-use utility that allows a user to access a wide variety of different functions all through a single program responsible for managing and handling all the smaller utilities used.
 
 .. warning::
 
