@@ -21,4 +21,4 @@ Both the 'vos.sh' file and the 'commands' folder will be gone, as they have been
 
 VOS is now successfully installed.
 
-In order to uninstall, you just have to either run `vos uninstall` or re-run `configure.sh` but select "Uninstall" as the option. It can be within any directory for the uninstallation process, and after uninstallling, you will find the uninstalled 'vos.sh' script and 'commands' folder present within the same directory as 'configure.sh'. This is useful in cases of debugging.
+In order to uninstall, you just have to either run 'vos uninstall' or re-run 'configure.sh' but select "Uninstall" as the option. It can be within any directory for the uninstallation process, and after uninstallling, you will find the uninstalled 'vos.sh' script and 'commands' folder present within the same directory as 'configure.sh'. This is useful in cases of debugging.
