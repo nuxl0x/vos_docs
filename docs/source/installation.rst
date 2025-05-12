@@ -7,17 +7,18 @@ Installation
 
 In order to install **VOS** on your Linux machine, the first thing that you are required to do is to download the newest release from the `Github repository <https://github.com/nuxl0x/verbose-octo-spork/releases>`_.
 
-After unpackaging the release, you should be just be left with 3 items.
+After unpackaging the release, you should be just be left with 4 items.
 
 * vos.sh
 * configure.sh
 * commands (folder)
+* assets (folder)
 
 In order to proceed with installation, you are required to execute the 'configure.sh' script. The recommended way to do this is to go to the file location and run "bash configure.sh". 
 
 After doing this, you simply have to type "Install" into the first prompt and confirm that all the files are present within the same directory as 'configure.sh' by putting 'y' into the second prompt. After that, the installer will take care of the rest.
 
-Both the 'vos.sh' file and the 'commands' folder will be gone, as they have been moved by the installer.
+Both the 'vos.sh' file, 'commands' folder and 'assets' folder will be gone, as they have been moved by the installer.
 
 **VOS** is now successfully installed.
 
