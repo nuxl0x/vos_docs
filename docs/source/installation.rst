@@ -18,7 +18,7 @@ In order to proceed with installation, you are required to execute the 'configur
 
 After doing this, you simply have to type "Install" into the first prompt and confirm that all the files are present within the same directory as 'configure.sh' by putting 'y' into the second prompt. After that, the installer will take care of the rest.
 
-Both the 'vos.sh' file, 'commands' folder and 'assets' folder will be gone, as they have been moved by the installer.
+The 'vos.sh' file, 'commands' folder and 'assets' folder will all be gone, as they have been moved by the installer.
 
 **VOS** is now successfully installed.
 
